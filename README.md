@@ -15,4 +15,4 @@ The way the software will work
 2. get the luminance, find the exact colour and frequency, and add 1 to the given colour frequency
 generate sound frequencies for all the pixels and add them all together. bang. left side of picture is left ear, right side is right. i dont know what im dong
 
-I will create a project desig plan, and once i complete it i will upload it here and commence the bababoey :)
+I will create a project design plan (a proper one!), and once i complete it i will upload it here and commence the bababoey :)
